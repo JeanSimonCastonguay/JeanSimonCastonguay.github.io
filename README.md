@@ -2,7 +2,7 @@
 
 I'm Jean-Simon, or <b>JohnnyKast</b> on [Twitter](https://twitter.com/johnny_kast)
 
-
+<img src="https://raw.githubusercontent.com/JeanSimonCastonguay/JeanSimonCastonguay.github.io/0b09a9de82ce5b772e10cc6f0802d1e8c8222f66/Photo%20JS.jpeg" width="150" height="150">
 
 - A former management consultant looking to pivot into <b>crypto</b> / <b>Web 3.0</b>
 - <b>Crypto</b> and <b>NFT</b> holder
