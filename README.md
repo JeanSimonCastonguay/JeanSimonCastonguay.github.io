@@ -22,6 +22,8 @@ I'm Jean-Simon, or <b>JohnnyKast</b> on [Twitter](https://twitter.com/johnny_kas
   - MBA society president (2018-2019)
  
  - University of Montreal, Bachelor's degree in <b>economics and politics</b> (2014)
+
+ - Inevitable academy: Introduction to NFTs ([Certificate #871](https://opensea.io/assets/matic/0x4bcc6e2e278551bc8b40902f453a02d59434a6e8/871))
     
 # <b>SKILLS</b> 
 
