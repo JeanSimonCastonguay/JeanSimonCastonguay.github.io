@@ -7,13 +7,17 @@ I'm Jean-Simon, or <b>JohnnyKast</b> on [Twitter](https://twitter.com/johnny_kas
 - A former management consultant looking to pivot into <b>Tech</b> / <b>crypto</b> / <b>Web 3.0</b>
 - <b>Crypto</b> and <b>NFT</b> holder
 - Working on the <b>Unemployables newsletter</b>: Weekly wrap up of everything that happened in the space (news, financial updates, etc.) 
-  - Forked/enhanced a Dune analytics dashboards to track important NFT metrics: [https://dune.com/johnnykast/unemployables-overview](https://dune.com/johnnykast/unemployables-overview)
+  - Built/Forked a [Dune analytics dashboard](https://dune.com/johnnykast/unemployables-overview) to track important NFT metrics
 
 # <b>EDUCATION</b> 
 
+- Google Career, specialized certificate: <b>Specialized certificate - Data analytics</b> (2022)
+
+  - 6-month [online course](https://www.coursera.org/professional-certificates/google-data-analytics) on data management (preparing, cleaning, analysis), data visualization (Tableau, dashboards, etc.) and fundamental data analysis with R programming
+
 - University of Maryland, specialized certificate: <b>Product ideation, design and management</b> (2022)
 
-  - 5-month [online course](https://www.coursera.org/specializations/product-ideation-design-and-management?skipBrowseRedirect=true) on product management essentials, creative design, prototyping and testing
+  - 5-month [online course](https://www.coursera.org/specializations/product-ideation-design-and-management?skipBrowseRedirect=true) on product management essentials, creative design, prototyping, testing and agile project management (Scrum, Kanban, etc.)
           
 - John Molson School of Business, <b>MBA</b> (2019)
 
@@ -29,6 +33,6 @@ I'm Jean-Simon, or <b>JohnnyKast</b> on [Twitter](https://twitter.com/johnny_kas
 # <b>SKILLS</b> 
 
 - Languages: English and French
-- Proficient: PowerPoint, Excel, project management, public speaking and critical thinking
+- Proficient: PowerPoint, Excel, project management, customer service, problem solving, public speaking and critical thinking
 - Novice: SQL
   - Certification: Davidson College - [Introduction to SQL](https://www.edx.org/course/introduction-to-sql) (20 hours)
