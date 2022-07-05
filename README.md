@@ -36,4 +36,4 @@ I'm Jean-Simon, or <b>JohnnyKast</b> on [Twitter](https://twitter.com/johnny_kas
 - Proficient: PowerPoint, Excel, project management, customer service, problem solving, public speaking and critical thinking
 - Intermediate: SQL
   - Certification: Davidson College - [Introduction to SQL](https://www.edx.org/course/introduction-to-sql) (20 hours)
-  - Mimo app: Over 20 hours
+  - [Mimo app](https://getmimo.com/): Over 20 hours
