@@ -7,7 +7,7 @@ I'm Jean-Simon, or <b>JohnnyKast</b> on [Twitter](https://twitter.com/johnny_kas
 - A former management consultant looking to pivot into <b>Tech</b> / <b>crypto</b> / <b>Web 3.0</b>
 - <b>Crypto</b> and <b>NFT</b> holder
 - Working on the <b>Unemployables newsletter</b>: Weekly wrap up of everything that happened in the space (news, financial updates, etc.) 
-  - Built/Forked a [Dune analytics dashboard](https://dune.com/johnnykast/unemployables-overview) to track important NFT metrics
+  - Built a [Dune analytics dashboard](https://dune.com/johnnykast/unemployables-overview) to track important NFT metrics
 
 # <b>EDUCATION</b> 
 
